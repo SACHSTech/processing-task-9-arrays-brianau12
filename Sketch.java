@@ -159,9 +159,6 @@ public class Sketch extends PApplet {
       image(imgGameOver, 200, 200, 400, 400);
     }
   }
-
-    // win
-    if ()
     
   /**
    * Method for keys pressed and sets to true it they are
